@@ -1,2 +1,3 @@
 This directory stores the analysis of HE and three controls(sand, stone, shell) 
 3_batch_produce_normalization_table.R : the later part is for producing the metatable for HE vs Controls for deblur analysis
+10_alpha_diversity_randomEffect.R： the first part is for producing biorep unique metatable 
